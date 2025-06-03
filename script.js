@@ -28,7 +28,7 @@ let selectedWord, guessedWord, attemptsLeft, gameOver, usedLetters = [];
 const wordElement = document.getElementById("word");
 const messageElement = document.getElementById("message");
 const canvas = document.getElementById("hangmanCanvas");
-const ctx = canvas.getContext("2d");
+const ctx = canvas.getContext("3d");
 
 function initGame() {
     selectedWord = words[Math.floor(Math.random() * words.length)];
