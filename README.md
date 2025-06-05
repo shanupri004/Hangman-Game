@@ -8,4 +8,3 @@ Developed an interactive Hangman game using core web technologies. The game allo
 - Step-by-step drawing of hangman using canvas  
 - Dynamic word selection  
 - Reset and replay functionality  
-- Responsive design for various devices
